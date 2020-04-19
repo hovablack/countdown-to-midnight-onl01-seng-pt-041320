@@ -4,4 +4,3 @@ def countdown
 
 end
 
-countdown
