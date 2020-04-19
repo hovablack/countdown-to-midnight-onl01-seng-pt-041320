@@ -1,5 +1,5 @@
-number = 60
-def countdown
+
+def countdown(60)
   puts "#{number} SECOND(S)!"
 
 end
